@@ -55,23 +55,37 @@ h1 {
 }
 
 h1 {
-  text-shadow: 2px 2px blue;
+  text-shadow: 2px 2px red;
 }
 
 h1 {
-  text-shadow: 2px 2px 5px blue;
+  text-shadow: 2px 2px 5px red;
 }
 
 h1 {
 border: 3px solid black;
 }
 
+h2 {
+  text-shadow: 2px 2px;
+}
+
+h2 {
+  text-shadow: 2px 2px red;
+}
+
+h2 {
+  text-shadow: 2px 2px 5px red;
+}
+
+
+
 .parallax {
   background: url(http://www.w3newbie.com/wp-content/upload/parallax-2.jpg) repeat fixed 100%;
 }
 
 .rot {
-  transform: rotate(0deg);
+  transform: rotate(90deg);
   float:bottom;
   margin:20px 20px 20px 20px;
   max-width: 100%
