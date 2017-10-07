@@ -107,8 +107,33 @@ p.sansserif {
 }
 
 p {
-    font-size: 30px;
+    font-size: 20px;
 }
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+h6 {
+    font-size: 25px;
+}
+
 
 .rot {
   transform: rotate(90deg);
