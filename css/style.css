@@ -193,6 +193,11 @@ button {
   margin-left: .5em;
 }
 
+.exp:hover {
+	transform:scale(2,2);
+	transform-origin:0 0;
+}
+
 @media screen and (max-width: 992px) {
   .btn {
     background-color: green;
